@@ -1,0 +1,9 @@
+.product {
+  display: flex;
+  padding: 5px;
+  border-right: 1px solid darkgray;
+  border-bottom: 1px solid rgb(243, 230, 230);
+}
+.name {
+  color: darkorange;
+}
